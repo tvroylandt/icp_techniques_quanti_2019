@@ -10,11 +10,11 @@ Il est dispensé par :
 
 S'y trouvent principalement :
 
-- Le syllabus ;
+- Le syllabus (dans `Syllabus/`) ;
 - Les slides des TD ;
 - Les feuilles d'exercices associées ;
-- Les fichiers de données pour les projets ;
-- Les fiches descriptives de ces données.
+- Les fichiers de données pour les projets (dans `Projets_data/data/`) ;
+- Les fiches descriptives de ces données (dans `Projets_data/doc/`).
 
 Pourront y être ajoutés :
 
