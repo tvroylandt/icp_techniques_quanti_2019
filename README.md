@@ -12,7 +12,7 @@ S'y trouvent principalement :
 
 - Le syllabus (dans `Syllabus/`) ;
 - Les slides des TD ;
-- Les feuilles d'exercices associées ;
+- Les feuilles d'exercices associées ainsi que les données pour les exercices (dans `Exercices/`) ;
 - Les fichiers de données pour les projets (dans `Projets_data/data/`) ;
 - Les fiches descriptives de ces données (dans `Projets_data/doc/`).
 
